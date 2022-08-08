@@ -1,0 +1,8 @@
+li {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+p {
+    background-image: linear-gradient(to right, grey, white);
+}
